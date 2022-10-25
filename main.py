@@ -20,3 +20,5 @@ def hell():
 hello('Рамиз')
 time()
 hell()
+
+print('амогус')
